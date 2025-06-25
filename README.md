@@ -189,9 +189,8 @@ Zomato_Business_Intelligence_Project/
 ├── documentation/
 │   ├── README.md                        # This comprehensive overview
 │   └── project_methodology.md           # Analysis approach
-└── results/
-    ├── executive_summary.pdf            # C-suite presentation
-    └── technical_appendix.pdf           # Detailed findings
+└── assets/
+    ├── Zomato_Dataset.csv            # Dataset Used from kaggle
 ```
 
 ---
